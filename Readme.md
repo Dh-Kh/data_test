@@ -12,8 +12,9 @@ The project leverages the TomTom Waypoint Optimization API to solve the travelin
 
 - **Python 3.x:** Make sure you have Python 3 installed.
 - **Virtual Environment (recommended):**  Create a virtual environment to manage project dependencies.
-- **TomTom API Key:** Obtain a free API key from TomTom and store it in a `.env` file.
+- **TomTom API Key:** Obtain a free API key from TomTom and store it in a `.env` file. 
 - **Google Maps API Key:** Obtain a free API key from Google Maps and store it in a `.env` file.
+(by default exists my test API KEYS)
 
 ## Installation
 
